@@ -1,1 +1,1 @@
-# Basic Stock CLosing Price Analysis in-Python
+# Basic stock closing price analysis in Python
